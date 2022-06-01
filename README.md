@@ -1,10 +1,20 @@
 # Hello-Frontend-App
- 
- 
-the app reads random greeting the rails application and displays it "hi"
+Implements a connection between a Ruby on Rails back-end and React front-end in two applications with different repositories. 
+the app reads random greeting the rails application and displays it
 
 
 ![app-screenshot](appImage1.png)
+
+## Note
+This project contains two separate repositories: * hello-backend * hello-frontend-app.
+
+### back-end repo is here
+
+https://github.com/banlon-jones/hello-backend
+
+### frontend repo
+
+https://github.com/banlon-jones/hello-frontend-app
 
 ## Built With 
  - React
