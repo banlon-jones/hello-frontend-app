@@ -1,0 +1,17 @@
+.books-container {
+  background-color: #fafafa;
+  height: 100vh;
+}
+
+.btn {
+  background: #0290ff;
+  padding: 8px;
+  color: #fff;
+  text-align: center;
+  margin: 5px 45%;
+}
+
+.greet {
+  padding-top: 20%;
+  text-align: center;
+}
