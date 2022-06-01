@@ -1,6 +1,7 @@
 # Hello-Frontend-App
-
-the app reads random greeting the rails application and displays it
+ 
+ 
+the app reads random greeting the rails application and displays it "hi"
 
 
 ![app-screenshot](appImage1.png)
